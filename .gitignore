@@ -1,0 +1,6 @@
+.pio/
+.pio_stable/
+managed_components/
+__pycache__/
+*.pyc
+build/
